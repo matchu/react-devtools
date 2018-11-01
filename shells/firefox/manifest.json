@@ -1,12 +1,13 @@
 {
   "manifest_version": 2,
-  "name": "React Developer Tools",
+  "name": "React Developer Tools (Khan fork, Nov 2018)",
   "description": "Adds React debugging tools to the Firefox Developer Tools.",
-  "version": "3.4.0",
+  "version": "3.4.2",
+  "version_name": "3.4.0 (Khan fork v0.2)",
 
   "applications": {
     "gecko": {
-      "id": "@react-devtools",
+      "id": "@react-devtools-khan-fork",
       "strict_min_version": "54.0"
     }
   },
